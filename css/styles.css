@@ -1,5 +1,27 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+}
+h2{
+    color: brown;
+    font-style: oblique;
+    text-align: center;
+}
+h3{
+    color:darkred;
+}
 .image{
     height:500px;
     width: 500px;
     border-radius: 15%;
+}
+.row{
+    color: brown;
+    text-align: center;
+}
+.data{
+    color: peru;
+    text-align: center;
 }
