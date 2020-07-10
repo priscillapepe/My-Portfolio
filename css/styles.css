@@ -1,3 +1,10 @@
+@media only screen and (min-width:240px) and (max-width:760px) {
+    body{
+        color:white;
+        background-color:black;
+    }
+
+}
 h1{
     color: blue;
     text-align: center;
@@ -10,7 +17,7 @@ h2{
     text-align: center;
 }
 h3{
-    color:darkred;
+    color:yellowgreen;
 }
 .image{
     height:500px;
@@ -18,10 +25,23 @@ h3{
     border-radius: 15%;
 }
 .row{
-    color: brown;
+    color:yellowgreen;
     text-align: center;
+    height: 15px;
+    width: 15px;
 }
 .data{
-    color: peru;
+    color: blueviolet;
     text-align: center;
+    height: 15px;
+    width: 15px;
+}
+p{
+    font-style: normal;
+    font-family: sans-serif;
+}
+.list{
+    color:blueviolet;
+    font-size: large;
+    font-family: monospace;
 }
