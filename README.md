@@ -15,7 +15,7 @@ css; Used for styling the web
 ## Support and contact details
 priscillaungai99@gmail.com
 ### License
-<a href="">MIT License
+MIT License
 
 Copyright (c) 2020 Priscilla Avichinga Ungai
 
@@ -35,7 +35,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.</a>
+SOFTWARE.
 Copyright (c) 2020
  **Priscilla Ungai**
 
